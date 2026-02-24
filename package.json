@@ -1,6 +1,6 @@
 {
-  "homepage": "https://Yaleem62.github.io/developerPorfolio",
-  "name": "developerfolio",
+  "homepage": "https://yaleem-dev.vercel.app",
+  "name": "yaleem-dev-porfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
